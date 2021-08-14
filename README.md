@@ -1,4 +1,4 @@
-# Build a Weather App in Django | Scrape Weather Data from Google | Beautiful Soup | Python Requests
+# Weather App in Django, Scrape Weather Data from Google, Beautiful Soup, Python Requests
 
 ## Request Headers
 
