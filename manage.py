@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#teste bruno
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'cb_dj_weather_app.settings')
     try:
